@@ -5,7 +5,7 @@ Professor Orientador: Leonardo Buta.
 
 | Perfil GIT/GitHobby | Dados Profissionais. |
 |---------------------------------------------|----------------------------------------| 
-|<a href="https://github.com/leonardo-buta/leonardo-buta"> <img src="./assets/Foto_professor.png" alt="Foto do pefil Leonardo Buta"></a> | <a href="https://github.com/leonardo-buta/leonardo-buta"><Img src="./assets/info_perfil.png" alt="Dados porfissionais do professor"></a> |
+|<a href="https://github.com/leonardo-buta/leonardo-buta"> <img src="./assets/Foto_professor.png" alt="Foto do pefil Leonardo Buta"></a> | <a href="https://github.com/leonardo-buta/leonardo-buta"><Img src="./assets/dados_perfil.png" alt="Dados porfissionais do professor"></a> |
 
 <img src="https://github.com/MarciaMoreno/CSS_DIO/raw/main/Captura%20de%20tela%202025-01-12%20081955.png?raw=true" alt="Info placar da DIO">
 
