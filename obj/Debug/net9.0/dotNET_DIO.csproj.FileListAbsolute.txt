@@ -1,0 +1,5 @@
+C:\GITHUB\dotNET_DIO\obj\Debug\net9.0\dotNET_DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITHUB\dotNET_DIO\obj\Debug\net9.0\dotNET_DIO.AssemblyInfoInputs.cache
+C:\GITHUB\dotNET_DIO\obj\Debug\net9.0\dotNET_DIO.AssemblyInfo.cs
+C:\GITHUB\dotNET_DIO\obj\Debug\net9.0\dotNET_DIO.csproj.CoreCompileInputs.cache
+C:\GITHUB\dotNET_DIO\obj\Debug\net9.0\dotNET_DIO.sourcelink.json
